@@ -1,3 +1,5 @@
+/*
+
 let country = 'Japan';
 let continent = 'Asia';
 let population = '125.8';
@@ -9,3 +11,5 @@ let isIsland = true;
 let language;
 
 console.log (isIsland)
+
+*/
